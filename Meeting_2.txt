@@ -1,0 +1,5 @@
+Attended in Person: 
+Josh Aidan Anderson, Jordan Hernandez, Luis Veltze, Bailee Mulholland, Joshua Achorn 
+
+Description:
+In this meeting we went over milestone 1 and how everyone can use LaTex in order to format and edit our report. We then started working on our Lab hw, and make sure everyone is familiar with HTML and CSS. We will all need to be proficient with these two languages since our project is going to be a website. 
