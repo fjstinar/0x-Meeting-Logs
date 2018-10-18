@@ -1,0 +1,10 @@
+1. brainstormed website style
+ - graphics
+ - format
+ - color
+ 
+2. back up plans to pivot towards
+  - chrome extention that logs ingredients in pantry
+  and let you know what other ingredients you need while looking at recipes online.
+
+3. discussed issues with current project
