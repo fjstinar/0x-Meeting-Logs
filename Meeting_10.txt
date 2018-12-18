@@ -1,0 +1,6 @@
+Attended in Person:
+bailee and Joshua (other had to work)
+
+Description:
+aidan uploaded the recipes from bonapetit into the firebase database
+Users can now add ingredients to their account and are displayed on the website
