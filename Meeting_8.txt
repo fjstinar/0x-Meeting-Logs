@@ -1,0 +1,10 @@
+Attended in Person:
+Everyone but luis and aidan (had to work)
+
+Description:
+mostly discussing what we want the the project to do
+display recipes with the ingredients you input or 
+go to recipe and display the ingredients you already have and the ingredients you dont
+
+google chrome extension seems to difficult for the project at this time
+
