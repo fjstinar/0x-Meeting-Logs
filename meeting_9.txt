@@ -1,0 +1,6 @@
+Attended in Person:
+Everyone.
+
+Description:
+josh created a firebase database to store users emails and passwords 
+users can now log into their acount from the website
