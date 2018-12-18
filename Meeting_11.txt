@@ -1,4 +1,8 @@
+Attendance: Everyone.
 Description:
-josh is working on comparing ingredients from recipes and users to display
+- Josh is working on comparing ingredients from recipes and users to display
 he correct recipes that include the ingredients the user inputs.
 smoothing out website more.
+- Jordan & Aidan have also been working on the website to try and figure out 
+ways to get the correct recipes from the database to display. Having to research
+how to change the exisiting js files to implement it w/ our firebase. 
