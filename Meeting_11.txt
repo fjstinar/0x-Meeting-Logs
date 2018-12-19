@@ -1,3 +1,4 @@
+11/26
 Attendance: Everyone.
 Description:
 - Josh is working on comparing ingredients from recipes and users to display
