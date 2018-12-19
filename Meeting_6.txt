@@ -2,6 +2,6 @@ Attended in Person:
 Everyone.
 
 Description:
-Luis is working on the database
-Aidan finished the recipe crawler
-Bailee and josh are figuring out what the website will look like
+Luis is working on the database.
+Aidan and Jordan finished the recipe crawler.
+Bailee and josh are figuring out what the website will look like.
